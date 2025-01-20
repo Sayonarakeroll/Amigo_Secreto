@@ -12,7 +12,7 @@ Este é um projeto simples de "Amigo Secreto" desenvolvido com HTML, CSS e JavaS
 
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/Sayonarakeroll/Amigo_Secreto.git do repositório>
+    git clone https://github.com/Sayonarakeroll/Amigo_Secreto.git
     ```
 
 2. Acesse o diretório do projeto:
