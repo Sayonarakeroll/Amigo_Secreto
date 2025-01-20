@@ -29,6 +29,9 @@ Este é um projeto simples de "Amigo Secreto" desenvolvido com HTML, CSS e JavaS
 3. Clique no botão **Sortear amigo** para sortear aleatoriamente um amigo secreto entre os amigos adicionados.
 4. O nome do amigo sorteado aparecerá abaixo da lista de amigos.
 
+![Image](https://github.com/user-attachments/assets/c713ef48-1514-4c5d-b273-f6e6aad38dc9)
+
+
 ## Como Funciona
 
 O aplicativo funciona da seguinte maneira:
