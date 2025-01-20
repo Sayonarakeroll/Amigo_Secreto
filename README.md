@@ -48,7 +48,7 @@ O aplicativo funciona da seguinte maneira:
 
 ## Rede Social
 
-Sayonara França - [Linkedin](www.linkedin.com/in/sayonara-frança) 
+Sayonara França - [Linkedin]([https://www.linkedin.com/in/sayonara-frança/) 
 
 ## Contribuições
 
