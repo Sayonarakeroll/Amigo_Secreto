@@ -46,6 +46,10 @@ O aplicativo funciona da seguinte maneira:
 - `atualizarListAmigos()`: Atualiza a lista de amigos exibida na página.
 - `sortearAmigo()`: Sorteia um amigo aleatoriamente da lista de amigos e exibe o nome sorteado.
 
+## Rede Social
+
+Sayonara França - [Linkedin](www.linkedin.com/in/sayonara-frança) 
+
 ## Contribuições
 
 Sinta-se à vontade para contribuir com melhorias ou sugestões para o projeto! Para isso, basta realizar um fork deste repositório, fazer suas alterações e enviar um pull request.
