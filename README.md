@@ -25,7 +25,7 @@ Este é um projeto simples de "Amigo Secreto" desenvolvido com HTML, CSS e JavaS
 ## Uso
 
 1. Acesse a página `index.html` no seu navegador.
-2. Adicione os nomes dos seus amigos na lista usando o campo de input e o botão **Adicionar**. <img src="![Image] (https://github.com/user-attachments/assets/c713ef48-1514-4c5d-b273-f6e6aad38dc9)" alt="Descrição da imagem" width="150"/>
+2. Adicione os nomes dos seus amigos na lista usando o campo de input e o botão **Adicionar**. <img src="![Image] (https://github.com/user-attachments/assets/c713ef48-1514-4c5d-b273-f6e6aad38dc9)" alt="150" width="150"/>
 
 3. Clique no botão **Sortear amigo** para sortear aleatoriamente um amigo secreto entre os amigos adicionados. ![Image](https://github.com/user-attachments/assets/b1450286-15fe-48b1-905d-9da8bba03c9e)
 4. O nome do amigo sorteado aparecerá abaixo da lista de amigos. ![Image](https://github.com/user-attachments/assets/ef391052-83c2-4684-9757-26ba31956bdf)
