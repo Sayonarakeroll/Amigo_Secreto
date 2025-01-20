@@ -49,5 +49,5 @@ Sinta-se à vontade para contribuir com melhorias ou sugestões para o projeto! 
 
 ---
 
-**Nota**: Não há backend ou banco de dados nesse projeto.
+**Nota**: Não há backend ou banco de dados nesse projeto, pois ele funciona inteiramente no lado do cliente (navegador).
 
