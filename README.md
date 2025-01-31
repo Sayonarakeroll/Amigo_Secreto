@@ -50,6 +50,8 @@ O aplicativo funciona da seguinte maneira:
 
 Sayonara França - [LinkedIn](https://www.linkedin.com/in/sayonara-frança/)
 
+Deploy - https://sayonarakeroll.github.io/Deploy_Amigo_Secreto/
+
 ## Contribuições
 
 Sinta-se à vontade para contribuir com melhorias ou sugestões para o projeto! Para isso, basta realizar um fork deste repositório, fazer suas alterações e enviar um pull request.
